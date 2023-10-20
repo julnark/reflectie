@@ -1,5 +1,5 @@
 # reflectie
-WAt heb ik met deze lessen nieuw geleerd?
+Wat heb ik met deze lessen nieuw geleerd?
 
 Alles.
 
