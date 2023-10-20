@@ -9,8 +9,6 @@ Niks, dit was allemaal nieuw voor mij.
 
 Waarvan zou ik nog meer willen weten?
 Hoe github enzo werkt.
-<<<<<<< HEAD
-Hoe github enzo werkt.
 
 wat heb ik met deze lessen Nieuw geleerd?
 alles
